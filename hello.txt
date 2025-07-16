@@ -1,3 +1,6 @@
 hello.txt file - 
 Ostad DevOps batch 4 assignment on version Control using Git and GitHub: 
 Commit, Branching, Merging, and Pull Requests
+
+Assingmet 2
+Assignment on Git Actions workflow
